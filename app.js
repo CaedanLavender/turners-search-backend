@@ -28,6 +28,10 @@ const discovery = new DiscoveryV2({
 });
 
 // ENDPOINTS
+app.get('/', (req, res) => {
+	res.send('Welcome to the Turners search API')
+})
+
 app.get('/collections', (req, res) => {
 	const params = {
 		projectId: process.env.PROJECT_ID
