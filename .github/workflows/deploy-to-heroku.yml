@@ -15,5 +15,3 @@ jobs:
           heroku_api_key: ${{secrets.HEROKU_API_KEY}}
           heroku_app_name: "turners-search-backend"
           heroku_email: "caedanlavender@gmail.com"
-          buildpack: "https://github.com/heroku/heroku-buildpack-nodejs.git"
-          procfile: "web: npm start"
