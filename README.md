@@ -1,5 +1,5 @@
 # Turners Search Backend
-A backend node app to the [frontend app](https://github.com/CaedanLavender/turners-search-frontend) repository.
+A backend node app to the [frontend app](https://github.com/CaedanLavender/turners-search-frontend).
 
 [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=CaedanLavender_turners-search-backend&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=CaedanLavender_turners-search-backend)
 [![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=CaedanLavender_turners-search-backend&metric=security_rating)](https://sonarcloud.io/summary/new_code?id=CaedanLavender_turners-search-backend)
